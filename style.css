@@ -185,7 +185,7 @@ iframe {
 
 }
 
-@media only screen and (max-width : 650px) {
+@media only screen and (max-width : 649px) {
 
 	.sharing {
 		height: 70px !important;
