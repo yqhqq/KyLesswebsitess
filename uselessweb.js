@@ -10,12 +10,13 @@ function uselessWebButton( button, popup ) {
 	// Useless websites: url | uses flash | score (out of 10)
 	// Commented out websites which have crashed.
 	var sitesList = [
-		['https://luke01.netlify.app//',                                    false, 7],
-		['https://longdoge.netlify.app/',                                false, 7],
-		['https://findbooks1.netlify.app/',                           false, 7],
+		['https://luke01.netlify.app//',                                    false, 4],
+		['https://longdoge.netlify.app/',                                false, 3],
+		['https://findbooks1.netlify.app/',                           false, 2],
 		['http://eelslap.com/',                                       false, 5],
 		['http://www.rrrgggbbb.com/',                                 true,  7],
 		['http://cat-bounce.com/',                                    true,  6],
+	        ['https://28klotlucas2.github.io/Mario64webgl/',                                    true,  1],
 
 	];
 
